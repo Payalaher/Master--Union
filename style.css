@@ -280,7 +280,7 @@ justify-content: flex-start;
     height: 80%;
     width: 40%;
     background-color: rgb(49, 98, 232);
-background-image: url(/MUnewJeroVideo.png);
+background-image: url(MUnewJeroVideo.png);
 background-size: cover;
 background-position: center;
 border-radius: 10px;
@@ -607,7 +607,7 @@ justify-content: center;
     height: 100%;
     width: 50%;
 /* background-color: rgb(156, 38, 246); */
-background-image: url(/dropshippingfair.png);
+background-image: url(dropshippingfair.png);
 background-size: cover;
 background-position: center;
 }
@@ -674,7 +674,7 @@ justify-content: center;
     height: 100%;
     width: 50%;
 /* background-color: rgb(156, 38, 246); */
-background-image: url(/AITourgif.gif);
+background-image: url(AITourgif.gif);
 background-size: cover;
 background-position: center;
 border-radius:50% ;
@@ -777,7 +777,7 @@ box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0p
 }
 
 .firstOFF{
-background-image: url(/PayalGroup.webp);
+background-image: url(PayalGroup.webp);
 background-size: cover;
 background-position: center;
 
@@ -807,14 +807,14 @@ font-weight: 300;
 }
 
 .secondOFF{
-    background-image: url(/Cars24.webp);
+    background-image: url(Cars24.webp);
     background-size: cover;
     background-position: center;
 
 }
 
 .thiredOFF{
-    background-image: url(/ChaiPoint.webp);
+    background-image: url(ChaiPoint.webp);
     background-size: cover;
     background-position: center;
 
@@ -953,14 +953,14 @@ background-color: lightseagreen;
 }
 
 .first-md{
-    background-image: url(/master-3.webp);
+    background-image: url(master-3.webp);
     background-size: cover;
     background-position: center;
     
 }
 
 .two-MD{
-    background-image: url(/abhishek-kumar.webp);
+    background-image: url(abhishek-kumar.webp);
     background-size: cover;
     background-position: center;
     
@@ -968,13 +968,13 @@ background-color: lightseagreen;
 
 .three-md{
 
-    background-image: url(/jishnu-chang-videothumb.webp);
+    background-image: url(jishnu-chang-videothumb.webp);
     background-size: cover;
     background-position: center;
 }
 
 .four-md{
-    background-image: url(/tathagata.webp);
+    background-image: url(tathagata.webp);
     background-size: cover;
     background-position: center;
 
@@ -1126,7 +1126,7 @@ color: rgb(97, 97, 97);
             justify-content: center;
         }
         
-        .PODCAST    {
+        .PODCAST{
         
             height: 90%;
             width: 35%;
@@ -1194,7 +1194,7 @@ color: rgb(97, 97, 97);
         }
         
         .firstpod{
-        background-image: url(/karanjoharthumnail.webp);
+        background-image: url(karanjoharthumnail.webp);
         background-size: cover;
         background-position: center;
         
@@ -1224,14 +1224,14 @@ color: rgb(97, 97, 97);
         }
         
         .secondpod{
-            background-image: url(/GrantThornton.webp);
+            background-image: url(GrantThornton.webp);
             background-size: cover;
             background-position: center;
         
         }
         
         .thiredpod{
-            background-image: url(/AkasaAir.webp);
+            background-image: url(AkasaAir.webp);
             background-size: cover;
             background-position: center;
         
@@ -1438,7 +1438,7 @@ font-size: .7vw;
             }
             
             .firstMasters{
-            background-image: url(/VibhorAgarwal.webp);
+            background-image: url(VibhorAgarwal.webp);
             background-size: cover;
             background-position: center;
             
@@ -1468,14 +1468,14 @@ font-size: .7vw;
             }
             
             .secondMasters{
-                background-image: url(/AnuragBansal.webp);
+                background-image: url(AnuragBansal.webp);
                 background-size: cover;
                 background-position: center;
             
             }
             
             .thiredMasters{
-                background-image: url(/PrabhuDayalGuliani.webp);
+                background-image: url(PrabhuDayalGuliani.webp);
                 background-size: cover;
                 background-position: center;
             
@@ -1587,27 +1587,27 @@ border: 0px solid black;
 }
 
 .step-one{
-    background-image: url(/akasaair.gif);
+    background-image: url(akasaair.gif);
     background-size: cover;
     background-position: center;
 }
 
 .step-two{
-    background-image: url(/DivitaAntler.gif);
+    background-image: url(DivitaAntler.gif);
     background-size: cover;
     background-position: center;
 
 }
 .three-step{
 
-    background-image: url(/swatireel.gif);
+    background-image: url(swatireel.gif);
     background-size: cover;
     background-position: center;
 
 }
 
 .four-step{
-    background-image: url(/Placement.gif);
+    background-image: url(Placement.gif);
     background-size: cover;
     background-position: center;
 
@@ -1723,7 +1723,7 @@ border: 0px solid black;
                             }
                             
                             .firstContent{
-                            background-image: url(/1.parents-yeh-dekho.webp);
+                            background-image: url(1.parents-yeh-dekho.webp);
                             background-size: cover;
                             background-position: center;
                             
@@ -1753,14 +1753,14 @@ border: 0px solid black;
                             }
                             
                             .secondContent{
-                                background-image: url(/2.selling-the-unsellable.webp);
+                                background-image: url(2.selling-the-unsellable.webp);
                                 background-size: cover;
                                 background-position: center;
                             
                             }
                             
                             .thiredContent{
-                                background-image: url(/3.challenge-accepted!.webp);
+                                background-image: url(3.challenge-accepted!.webp);
                                 background-size: cover;
                                 background-position: center;
                             
